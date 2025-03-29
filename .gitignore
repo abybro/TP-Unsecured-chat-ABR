@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 env/
+=======
+__pycache__/base_client.cpython-312.pyc
+__pycache__/base_server.cpython-312.pyc
+en/
+>>>>>>> 3e79fb6 (Message rapide)
